@@ -4,7 +4,7 @@
 ### Run
 > You must have Docker installed
 
-```bash
+```console
 $ docker build -t dockerize_nodejs_with_vscode .
 $ docker-compose up
 ```
